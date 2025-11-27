@@ -14,3 +14,6 @@ nbdime
 
 # Scikit-learn for ML
 scikit-learn
+
+# Seaborn for statistical data visualization
+seaborn
