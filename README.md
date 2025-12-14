@@ -35,11 +35,11 @@
 ## Setup Instructions
 1. Clone the repository
     ```bash
-    git clone https://github.com/samehinttech/Python_Learning_ML.git
+    git clone https://github.com/samehinttech/Python_ML_25.git
    ```
 2. Navigate to the project directory:
     ```bash
-    cd Python_Learning_ML
+    cd Python_ML_25
     ```
 3. Create a virtual environment:
    ```bash
@@ -57,7 +57,7 @@
     ```bash
    jupyter notebook
     ```
-   > **Important:** Always start Jupyter from the project root directory (`Python_Learning_ML`) to ensure correct file paths.
+   > **Important:** Always start Jupyter from the project root directory (`Python_ML_25`) to ensure correct file paths.
 7. Run Python scripts:
     ```bash
    python script_name.py
