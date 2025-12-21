@@ -41,3 +41,6 @@ build/
 
 # my additional ignores
 my-data/
+
+# Local settings
+pyrefly.toml
