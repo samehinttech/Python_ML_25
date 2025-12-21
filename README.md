@@ -5,9 +5,9 @@
 [![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-red)](https://matplotlib.org/)
 [![Numpy](https://img.shields.io/badge/Library-Numpy-yellowgreen)](https://numpy.org/)
 [![Scikit-learn](https://img.shields.io/badge/Library-Scikit--learn-orange)](https://scikit-learn.org/stable/)
-[![Status](https://img.shields.io/badge/Status-Learning_in%20Progress-yellow)](https://github.com/samehinttech/Python_ML_25)
-[![Repo Started](https://img.shields.io/badge/Repo%20Started-2025--10--03-blue?logo=github)](https://github.com/samehinttech/Python_ML_25)
-[![Last Commit](https://img.shields.io/github/last-commit/samehinttech/Python_ML_25?color=yellow&label=Last%20Update&logo=github)](https://github.com/samehinttech/Python_ML_25/commits/main)
+[![Status](https://img.shields.io/badge/Status-Learning_in%20Progress-yellow)](https://github.com/samehinttech/Python_ML25)
+[![Repo Started](https://img.shields.io/badge/Repo%20Started-2025--10--03-blue?logo=github)](https://github.com/samehinttech/Python_ML25)
+[![Last Commit](https://img.shields.io/github/last-commit/samehinttech/Python_ML25?color=yellow&label=Last%20Update&logo=github)](https://github.com/samehinttech/Python_ML25/commits/main)
 
 
 
@@ -35,11 +35,11 @@
 ## Setup Instructions
 1. Clone the repository
     ```bash
-    git clone https://github.com/samehinttech/Python_ML_25.git
+    git clone https://github.com/samehinttech/Python_ML25.git
    ```
 2. Navigate to the project directory:
     ```bash
-    cd Python_ML_25
+    cd Python_ML25
     ```
 3. Create a virtual environment:
    ```bash
